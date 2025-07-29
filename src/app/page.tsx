@@ -176,7 +176,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I've attended and still continue to attend many hackathons. Coming together with different people and building incredible things in few
+                  I&apos;ve attended and still continue to attend many hackathons. Coming together with different people and building incredible things in few
                   days. It is eye-opening to see the endless possibilities
                   brought to life by a group of motivated and passionate
                   individuals.
